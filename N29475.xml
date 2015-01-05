@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:039252_0000_1013FA0564911580"/>
-            <pb facs="tcp:039252_0001_1013D6FCB9328C30"/>
+            <pb facs="unknown:039252_0000_1013FA0564911580"/>
+            <pb facs="unknown:039252_0001_1013D6FCB9328C30"/>
             <head>HIS <hi>HIGHNESS</hi> THE PRINCE OF ORANGE His <hi>LETTER</hi> to the <hi>LORDS SPIRIT<g ref="char:V">Ʋ</g>AL</hi> and <hi>TEMPORAL</hi> Aſſembled at <hi>Weſtminſter</hi> in this preſent Convention.
 <date>January <hi>22. 1688.</hi>
                </date>
@@ -137,7 +137,7 @@
             </postscript>
          </div>
          <div type="letter">
-            <pb facs="tcp:039252_0002_1013FA0A52896068"/>
+            <pb facs="unknown:039252_0002_1013FA0A52896068"/>
             <head>The <hi>ADDRESS</hi> of the <hi>Lords Spiritual &amp; Temporal</hi> and Commons aſſembled at <hi>Weſtminſter</hi> in this preſent Convention,</head>
             <opener>
                <dateline>
